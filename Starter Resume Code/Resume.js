@@ -64,7 +64,7 @@ div.addEventListener(
 
 document.addEventListener('keydown', function(e) {
     if(e.key === 'a'){
-        var audio = new Audio('C:\\Users\\TDEVDF7\\Documents\\VSCode Projects\\BadUIBash-Donald-Vic\\Starter Resume Code\\Letter Voices\\A.m4a');
+        var audio = new Audio("C:\\Users\\TDEVDF7\\Documents\\VSCode Projects\\BadUIBash-Donald-Vic\\Starter Resume Code\\Letter Voices\\A.m4a");
         audio.play();
     }
   });
